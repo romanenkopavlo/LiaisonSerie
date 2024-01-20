@@ -37,7 +37,6 @@ public class LiaisonSerie implements SerialPortEventListener {
 
     @Override
     public void serialEvent(SerialPortEvent event) {
-        System.out.println("reception");
     }
 
 
